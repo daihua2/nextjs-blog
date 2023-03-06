@@ -17,7 +17,7 @@ export default  function FirstPost()
             console.log(`script loaded correctly, window.FB has been populated`)
             }
         /> */}
-        <h1>Fist Post</h1>
+        <h1>Fist Post Test</h1>
         <h2>
             <Link href="/">回退</Link>
         </h2>
