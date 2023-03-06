@@ -8,7 +8,7 @@ export default  function FirstPost()
     return(
         <Layout>
         <Head>
-            <title>第一个博客</title>
+            <title>第一个博客测试</title>
         </Head>
         {/* <Script
             src="https://connect.facebook.net/en_US/sdk.js"
